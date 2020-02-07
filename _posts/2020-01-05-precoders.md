@@ -4,6 +4,7 @@ title: Precoders Meetup
 tags:
   - meetup
   - coding
+comments: true
 ---
 
 I gave a talk about using python virtual environements:
