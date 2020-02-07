@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Precoders Meetup (1/5/2020)
+title: Precoders Meetup
 tags:
   - meetup
   - coding
